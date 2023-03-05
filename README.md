@@ -5,3 +5,4 @@ list of codes:
 1) matrix multiplication.
 2) transpose of a matrix and multiplication of that matrix with given matrix
 3) implementation of gauss elimination process
+4) implementation of gauss-jordan method 
