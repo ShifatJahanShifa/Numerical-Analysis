@@ -6,3 +6,4 @@ list of codes:
 2) transpose of a matrix and multiplication of that matrix with given matrix
 3) implementation of gauss elimination process
 4) implementation of gauss-jordan method 
+5) finding quadratic polynomial that is least square fit to a given data using Gauss Elimination process.
